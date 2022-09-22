@@ -4,7 +4,7 @@ export const projects = [
     description: "A personal responsive portfolio website that is built using React and Next.js",
     image: '/images/1.png',
     tags: [ 'React', 'Next.js', ],
-    source: 'https://google.com',
+    source: 'https://portfolio-website-6ru9.vercel.app/',
     visit: 'https://github.com/sjaustria22/portfolio_nextjs',
     id: 0,
   },
