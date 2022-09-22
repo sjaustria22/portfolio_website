@@ -5,15 +5,14 @@ import Button from '../../styles/GlobalComponents/Button';
 import { LeftSection } from './HeroStyles';
 
 const Hero = (props) => (
-  <Section row nonpadding>
+ <Section row nonpadding>
     <LeftSection>
       <SectionTitle main center>
-        Shem Justice Ruzel Austria
+        Hey, I'm Shem ;)
       </SectionTitle>
       <SectionText>
-        A Web Developer
+      I design and code beautifully simple things, and I love what I do.
       </SectionText>
-      <Button onclick={() => window.location = 'https://www.docdroid.net/FuOsayx/cv-my-pdf'}>View CV</Button>
     </LeftSection>
   </Section>
 );
