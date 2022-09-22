@@ -43,7 +43,7 @@ useEffect(() => {
 
   return (
     <Section id="about">
-      <SectionTitle>AboutMe</SectionTitle>
+      <SectionTitle>About Me</SectionTitle>
       <SectionText>
       Hi! I'm Shem Justice Austria, an aspiring Front End Developer and a licensed physical therapist in the Philippines. From the moment I produced "Hello World" in the console of my first application, I knew I was hooked into the world of programming. But programming has never been "just a job" for me; it's an engaging opportunity to continually learn and improve my skills in web development. What started with a simple "Hello World" has become a full-fledged passion that only gets more exciting as time goes by.
       </SectionText>

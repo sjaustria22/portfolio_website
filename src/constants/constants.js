@@ -5,7 +5,7 @@ export const projects = [
     image: '/images/1.png',
     tags: [ 'React', 'Next.js', ],
     source: 'https://google.com',
-    visit: 'https://google.com',
+    visit: 'https://github.com/sjaustria22/portfolio_nextjs',
     id: 0,
   },
   {
