@@ -7,7 +7,7 @@ const data = [
 ];
 
 const Contact = () => (
-  <Section>
+  <Section id="contact">
     <SectionTitle>Contact</SectionTitle>
     <SectionText>I'd Love to Hear From You</SectionText>
     <Boxes>
