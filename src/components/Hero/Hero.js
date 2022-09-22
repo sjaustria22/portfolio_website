@@ -13,7 +13,7 @@ const Hero = (props) => (
       <SectionText>
         A Web Developer
       </SectionText>
-      <Button onclick={() => window.location = 'https://google.com'}>Download CV</Button>
+      <Button onclick={() => window.location = 'https://www.docdroid.net/FuOsayx/cv-my-pdf'}>View CV</Button>
     </LeftSection>
   </Section>
 );
