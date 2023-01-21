@@ -12,23 +12,24 @@ const Technologies = () =>  (
     </SectionText>
     <List>
       <ListItem>
-        <DiReact size="3rem" />
         <ListContainer>
-          <ListTitle>Front-End</ListTitle>
-          <ListParagraph>
-            Experience with <br />
-            HTML, CSS, Javascript, React JS
-          </ListParagraph>
+          <ListTitle>HTML</ListTitle>
+          <br/>
+          <ListTitle>jQuery</ListTitle>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiFirebase size="3rem" />
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
-          <ListParagraph>
-            Background in <br />
-            SQL, Python, Node.js and Databases
-          </ListParagraph>
+          <ListTitle>CSS</ListTitle>
+          <br/>
+          <ListTitle>Bootstrap</ListTitle>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <ListContainer>
+          <ListTitle>Javascript</ListTitle>
+          <br/>
+          <ListTitle>React JS</ListTitle>
         </ListContainer>
       </ListItem>
     </List>
